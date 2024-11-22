@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="./public/LOGO_POKEMON.png" alt="Logo du projet">
+  <img src="./public/LOGO_POKEMON.png" alt="Logo du projet" width=100%>
 </p>
 
 # <img src="./public/pokedex.jpg" alt="Logo du projet" width=10%>Pokedex
 
 Ce projet est une application web de type Pokédex, construite avec **MySQL2** et **TypeScript**. Il permet aux utilisateurs de parcourir une liste de Pokémon, de rechercher des Pokémon spécifiques et de consulter leurs détails.
 
-## Fonctionnalités
+## <img src="./public/pokeball.jpg" alt="Logo du projet" width=10%>Fonctionnalités
 
 - **Liste des Pokémon** : Visualisez une liste de Pokémon disponibles.
 - **Recherche** : Recherchez un Pokémon par son nom ou son numéro.
 - **Détails des Pokémon** : Consultez des informations détaillées via une fenêtre modale.
 
-## Prérequis
+## <img src="./public/pokeball.jpg" alt="Logo du projet" width=10%>Prérequis
 
 - **Node.js** version 16 ou supérieure.
 - Un gestionnaire de packages comme **npm**.
 
-## Installation
+## <img src="./public/pokeball.jpg" alt="Logo du projet" width=10%>Installation
 
 1. Clonez ce dépôt :
    ```bash
@@ -49,7 +49,7 @@ Ce projet est une application web de type Pokédex, construite avec **MySQL2** e
    npm run start
    ```
    
-## Architecture du projet
+## <img src="./public/pokeball.jpg" alt="Logo du projet" width=10%>Architecture du projet
 
 Voici un aperçu de la structure des fichiers principaux :
 
@@ -63,7 +63,7 @@ Voici un aperçu de la structure des fichiers principaux :
 │   └── routes/        # Chemins http
 ```
 
-## Déploiement
+## <img src="./public/pokeball.jpg" alt="Logo du projet" width=10%>Déploiement
 
 L'application peut être déployée sur n'importe quelle plateforme compatible avec les frameworks frontend modernes. 
 
