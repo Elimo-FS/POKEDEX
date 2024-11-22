@@ -2,7 +2,7 @@
   <img src="./public/LOGO_POKEMON.png" alt="Logo du projet">
 </p>
 
-# <img src="./public/pokedex.jpg" alt="Logo du projet" width=20%>Pokedex
+# <img src="./public/pokedex.jpg" alt="Logo du projet" width=10%>Pokedex
 
 Ce projet est une application web de type Pokédex, construite avec **MySQL2** et **TypeScript**. Il permet aux utilisateurs de parcourir une liste de Pokémon, de rechercher des Pokémon spécifiques et de consulter leurs détails.
 
