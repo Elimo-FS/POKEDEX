@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./public/LOGO_POKEMON.png" alt="Logo du projet">
+</p>
 
 # Pokedex
 
